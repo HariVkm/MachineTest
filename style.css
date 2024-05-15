@@ -1,0 +1,148 @@
+.main {
+    width:100%;
+    min-height:700px;
+    background-color: green;
+     
+}
+.nav {
+    width:100%;
+    height:65px;
+    background-color: aqua;;
+}
+.sidebar {
+    width:20%;
+    height:500px;
+    background-color: brown;
+}
+.leftnumbers {
+    margin-left:100px;
+}
+.vertical {
+    margin-top:-18px;
+    margin-left:110px;
+    border-left:1px solid white;
+    height: 20px;
+}
+.email {
+    margin-top:-18px;
+    margin-left:140px;
+}
+.certific{
+    margin-top:-18px;;
+    margin-left:450px;
+}
+.vertical1 {
+    margin-top:-18px;
+    margin-left:530px;
+    border-left:1px solid white;
+    height: 20px;
+}
+.whyus {
+    margin-top:-18px;;
+    margin-left:540px;
+}
+.nr {
+    margin-top:-18px;;
+    margin-left:610px;
+}
+.vertical2 {
+    margin-top:-18px;
+    margin-left:600px;
+    border-left:1px solid white;
+    height: 20px;
+}
+.vertical3 {
+    margin-top:-18px;
+    margin-left:700px;
+    border-left: 1px solid white;
+    height: 20px;
+}
+.sell {
+    margin-top:-18px;;
+    margin-left:710px;
+}
+.mapimage {
+    height:20px;
+    width:20px;
+    margin-top:-28px;;
+    margin-left:800px;
+   object-position:left top;
+}
+.map {
+    margin-top:-18px;;
+    margin-left:850px;
+}
+#navlist {
+    background-color: #0074D9;
+    position: absolute;
+    width: 100%;
+}
+.image {
+    height:60px;
+    margin-left:90px;
+}
+
+
+/* styling navlist anchor element */
+
+
+
+
+/* styling search bar */
+.search input[type=text] {
+    width: 300px;
+    height: 25px;
+    border-radius: 25px;
+    border: none;
+}
+
+.search {
+    float: left;
+    margin: 7px;
+}
+
+.search button {
+    background-color: #0074D9;
+    color: #f2f2f2;
+    float: left;
+    padding: 5px 10px;
+    margin-left:-56px;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+.container {
+    display:flex;
+    background-color: white;
+    width: 100%;
+    height: 150px;
+    
+  }
+  .container1 {
+    display:flex;
+    background-color: violet;
+    width: 100%;
+    height:300px;
+    
+  }
+  .image1 {
+    height:60px;
+    margin-top: 100px;
+    margin-left:110px;
+}
+.image2 {
+    height:60px;
+    margin-top: 100px;
+    margin-left:120px;
+}
+.image3{
+    height:60px;
+    margin-top: 100px;
+    margin-left:130px;
+}
+  
+/* .footer {
+    width:100%;
+    background-color: red;
+    height:200px;
+} */
